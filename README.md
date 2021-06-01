@@ -25,13 +25,13 @@
 <hr />
 
 ## 效果展示
-![效果图](assets/resume00.jpg)
+![效果图](./assets/resume00.jpg)
 <hr />
 
-![效果图](assets/resume01.jpg)
+![效果图](./assets/resume01.jpg)
 <hr />
 
-![效果图](assets/resume02.jpg)
+![效果图](.\assets/resume02.jpg)
 
 
 ## 导出说明
